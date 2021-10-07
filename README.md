@@ -1,3 +1,3 @@
 # My-first-repo
 gits
-This is as sample repo
+This is a sample repo
